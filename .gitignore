@@ -1,0 +1,18 @@
+# pasta de arquivos
+/media
+
+# Banco de Dados
+db
+db.sqlite3
+
+# Directorios de entornos virtuales
+venv
+.env
+
+# Archivos compilados de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Archivos de configuración de IDEs (VSCode, PyCharm, etc.)
+.vscode/
